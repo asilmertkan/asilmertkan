@@ -1,16 +1,16 @@
-👋 Hi, I'm Murat Doğan
-.NET Core & React Developer
+# 👋 Hi, I'm Murat Doğan
+## .NET Core & React Developer
 
 Welcome to my GitHub profile.
 
-About Me
+### About Me
 
 I work with .NET Core, C#, and React on production-focused applications. I have extensive experience with Serenity Framework, dashboards, operator panels, and workflow-heavy systems.
 
 I bring over 20 years of experience in finance and accounting management, and I specialize in ERP system implementation, optimization, and consulting. I enjoy improving existing codebases and building reliable backend structures.
 
-Technologies
-Backend
+## Technologies
+### Backend
 
 .NET Core / .NET 6/7/8, C#
 
@@ -22,7 +22,7 @@ REST APIs
 
 Serenity Framework (extensive experience)
 
-Frontend
+### Frontend
 
 React
 
@@ -36,7 +36,7 @@ Bootstrap
 
 Tools
 
-Git & GitHub
+### Git & GitHub
 
 Docker
 
@@ -52,7 +52,7 @@ Production/Operator dashboards
 
 ERP system consultancy and optimization
 
-Contact
+## Contact
 
 📩 murat.dogan@hotmail.com.tr
 
