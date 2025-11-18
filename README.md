@@ -5,7 +5,7 @@ Welcome to my GitHub profile.
 
 ### About Me
 
-I work with .NET Core, C#, and React on production-focused applications. I have extensive experience with Serenity Framework, dashboards, operator panels, and workflow-heavy systems.
+I work with .NET Core, C#, Typescript & React on production-focused applications. I have extensive experience with Serenity Framework, dashboards, operator panels, and workflow-heavy systems.
 
 I bring over 20 years of experience in finance and accounting management, and I specialize in ERP system implementation, optimization, and consulting. I enjoy improving existing codebases and building reliable backend structures.
 
