@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Murat Doğan
-## .NET Core & React Developer
+## .NET Core & Typescript Developer
 
 Welcome to my GitHub profile.
 
