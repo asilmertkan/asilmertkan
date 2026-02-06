@@ -12,7 +12,7 @@ I bring over 20 years of experience in finance and accounting management, and I 
 ## Technologies
 ### Backend
 
-.NET Core / .NET 6/7/8, C#
+.NET Core / .NET 6/7/8/10, C#
 
 EF Core, LINQ
 
